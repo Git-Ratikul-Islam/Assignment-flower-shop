@@ -1,0 +1,57 @@
+* {
+      margin: 0;
+      padding: 0;
+}
+
+body {
+      font-family: 'Josefin Sans', sans-serif;
+      font-family: 'Lato', sans-serif;
+      font-family: 'Oswald', sans-serif;
+      font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* banner css start from here */
+
+.banner-section {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      background-color: rgba(229, 84, 115, 0.10);
+      height: 900px;
+
+}
+
+.text-area-part {}
+
+.banner-text-head-title {
+      color: #272727;
+      font-size: 80px;
+      font-style: normal;
+      font-weight: 800;
+}
+
+.banner-text-paragraph-title {
+      color: rgba(39, 39, 39, 0.60);
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      padding: 30px 0px 30px 0px;
+
+}
+
+.banner-button {
+      padding: 20px 43px;
+      border-radius: 8px;
+      font-size: 20px;
+      font-weight: 700;
+      background: #E55473;
+      border-style: none;
+      color: #FFF;
+}
+
+.image-area-part {
+      display: inline-block;
+}
+
+
+.banner-image {}
