@@ -265,7 +265,7 @@ body {
 
 /* latest deals start from here */
 .latest-deals {
-      background-image: url("/Flower\ Asset/Rectangle 9.png");
+      background-image: url("./Flower\ Asset/Rectangle 9.png");
       background-repeat: no-repeat;
       background-position: top;
       margin-top: 250px;
