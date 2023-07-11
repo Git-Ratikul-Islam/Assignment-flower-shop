@@ -217,3 +217,58 @@ body {
       height: 420px;
       flex-shrink: 0;
 }
+
+
+
+/* social-media-section-starts-here */
+
+.social-meadia {
+      height: 60vh;
+      /* width: 100%;
+      margin: auto; */
+
+}
+
+
+.social-media-text {
+      text-align: center;
+
+      color: rgba(39, 39, 39, 0.60);
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 30px;
+}
+
+.insta-text {
+      margin-top: 128px;
+      margin-bottom: 24px;
+      color: #272727;
+      font-size: 40px;
+      font-weight: 800;
+
+}
+
+.paragraph-text-of-social {
+      margin-bottom: 48px;
+}
+
+.social-media-picture {
+      width: 80%;
+      margin: auto;
+      display: flex;
+      justify-content: space-evenly;
+
+
+
+}
+
+
+/* latest deals start from here */
+.latest-deals {
+      margin-top: 250px;
+      height: 60vh;
+      text-align: center;
+}
+
+
+/* input area starts here */
