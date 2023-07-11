@@ -265,10 +265,62 @@ body {
 
 /* latest deals start from here */
 .latest-deals {
+      background-image: url("/Flower\ Asset/Rectangle 9.png");
+      background-repeat: no-repeat;
+      background-position: top;
       margin-top: 250px;
       height: 60vh;
       text-align: center;
 }
 
+.deals {
+      padding-top: 150px;
+
+}
+
+.latest-heading {
+      color: #272727;
+      font-size: 40px;
+      font-weight: 800;
+}
+
+.latest-paragraph {
+      color: rgba(39, 39, 39, 0.60);
+      font-size: 18px;
+      font-weight: 400;
+      margin-top: 16px;
+
+}
 
 /* input area starts here */
+.input-section {
+      margin-top: 48px;
+}
+
+
+
+
+.input-area {
+      width: 700px;
+      height: 64px;
+      border-radius: 8px;
+      background: #FFF;
+      border: none;
+}
+
+.Subscribe-button {
+      width: 150px;
+      height: 64px;
+      margin-left: 16px;
+      border-radius: 8px;
+      background-color: #E55473;
+      border: none;
+      color: #FFF;
+      font-size: 20px;
+      font-weight: 700;
+
+}
+
+::placeholder {
+      padding-left: 22px;
+}
